@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beauty Hacks</string>
+    <string name="normal_hair">Normal Hair:</string>
+    <string-array name="skintypes">
+        <item>Basics of SkinCare</item>
+        <item>Normal Skin</item>
+        <item>Oily Skin</item>
+        <item>Dry Skin</item>
+        <item>Combination Skin</item>
+        <item>Sensitive Skin</item>
+        <item>Acne-prone Skin</item>
+
+    </string-array>
+
+    <string-array name="hairtypes">
+        <item>Basics of HairCare</item>
+        <item>Dry</item>
+        <item>Oily</item>
+        <item>Normal</item>
+    </string-array>
+
+</resources>

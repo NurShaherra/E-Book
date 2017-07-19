@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home">
+    </item>
+    <item
+        android:id="@+id/menu_hair"
+        android:title="Hair Care">
+
+    </item>
+    <item
+        android:id="@+id/menu_skin"
+        android:title="Skin Care">
+
+    </item>
+    <item
+        android:id="@+id/menu_hairtype"
+        android:title="Hair Types">
+
+    </item>
+    <item
+        android:id="@+id/menu_skintype"
+        android:title="Skin Types">
+
+    </item>
+    <item android:id="@+id/menu_email"
+        android:title="Email">
+
+    </item>
+
+
+</menu>
+
+
+
